@@ -29,7 +29,6 @@ The `servo_node` converts this value into a servo angle and sends it back to the
 - Arduino
 - 2 × LDR
 - Servo motor
-- 2 × resistors
 - Breadboard and jumper wires
 
 ### Connections
